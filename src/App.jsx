@@ -7,7 +7,6 @@ const App = () => {
         color="red"
         feedbackMessages={["เกลียดสุด", "เกลียด", "เฉยๆ", "ชอบ", "ชอบมากๆ"]}
       />
-
       <Rating />
     </div>
   );
